@@ -1,0 +1,15 @@
+{
+  "short_name": "Service Worker",
+  "name": "Service Worker",
+  "icons": [
+    {
+      "src":"images/icon.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#177ee8",
+  "display": "standalone"
+}
