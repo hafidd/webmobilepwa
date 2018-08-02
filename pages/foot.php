@@ -16,11 +16,6 @@
 					<?php endforeach ?>
 				</ul>
 			</div>
-			<br/>
-			<div class="categories">
-				<h2>Kosong</h2>
-				<p class="text-center">Coming Soon</p>
-			</div>
 		</div>
 		<!-- /kategori -->
 		<div class="clearfix"> </div>   

@@ -10,6 +10,7 @@ $mns = $fun->getMenu();
 <html>
 <head>	
 	<title><?=$fun->getPref("title")?></title>
+	<meta name="theme-color" content="#177ee8" />
 	<!-- for-mobile-apps -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -24,6 +25,7 @@ $mns = $fun->getMenu();
 	<!-- //js -->
 	<link href='//fonts.googleapis.com/css?family=Raleway:400,100,100italic,200,200italic,300,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+	<link rel="manifest" href="manifest.json">
 </head>
 <body>  
 	<!-- header -->
